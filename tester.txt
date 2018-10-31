@@ -1,0 +1,478 @@
+print
+Adding Song1, by Derrick1 (Size = 16 MB)
+add
+Derrick1
+Song1
+16
+show
+size
+wait
+print
+Adding Song0, by Derrick1 (Size = 16 MB)
+add
+Derrick1
+Song0
+16
+show
+size
+wait
+print
+Adding Song2, by Derrick1 (Size = 16 MB)
+add
+Derrick1
+Song2
+16
+show
+size
+wait
+print
+Adding Song1, by Derrick0 (Size = 16 MB)
+add
+Derrick0
+Song1
+16
+show
+size
+wait
+print
+Adding Song1, by Derrick2 (Size = 16 MB)
+add
+Derrick2
+Song1
+16
+show
+size
+wait
+print
+Adding Song1, by Derrick1 (Size = 8 MB)
+add
+Derrick1
+Song1
+8
+show
+size
+wait
+print
+Adding Song1, by Derrick1 (Size = 32 MB)
+add
+Derrick1
+Song1
+32
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Adding Song, by Derrick (Size = 390 MB)
+add
+Derrick
+Song
+390
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Adding Song, by Terry (Size = 2 MB)
+add
+Terry
+Song
+2
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Adding Song, by Max (Size = 1 MB)
+add
+Max
+Song
+1
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Removing Song, by Terry (Size = 2 MB)
+remove
+Terry
+Song
+2
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Removing Song, by Derrick (Size = 390 MB)
+remove
+Derrick
+Song
+390
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Removing Song1, by Derrick1 (Size = 32 MB)
+remove
+Derrick1
+Song1
+32
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Removing Song1, by Derrick1 (Size = 8 MB)
+remove
+Derrick1
+Song1
+8
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+print
+Removing Song0, by Derrick1 (Size = 16 MB)
+remove
+Derrick1
+Song0
+16
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+print
+Removing Song2, by Derrick1 (Size = 16 MB)
+remove
+Derrick1
+Song2
+16
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+print
+Removing Song1, by Derrick1 (Size = 16 MB)
+remove
+Derrick1
+Song1
+16
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+print
+Removing Song1, by Derrick0 (Size = 16 MB)
+remove
+Derrick0
+Song1
+16
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+print
+Removing Song1, by Derrick2 (Size = 16 MB)
+remove
+Derrick2
+Song1
+16
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+print
+Removing Song1, by Derrick2 (Size = 16 MB)
+remove
+Derrick2
+Song1
+16
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+
+wait
+print
+Re-adding all the songs
+add
+Derrick1
+Song1
+16
+add
+Derrick1
+Song0
+16
+add
+Derrick1
+Song2
+16
+add
+Derrick0
+Song1
+16
+add
+Derrick2
+Song1
+16
+add
+Derrick1
+Song1
+8
+add
+Derrick1
+Song1
+32
+show
+size
+wait
+
+print
+Clearing Memory
+clear
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+
+wait
+print
+Removing Song, by Terry (Size = 2 MB)
+remove
+Terry
+Song
+2
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Adding Song, by Max (Size = 1 MB)
+add
+Max
+Song
+1
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+wait
+
+print
+Removing Song, by Terry (Size = 2 MB)
+remove
+Terry
+Song
+2
+show
+size
+wait
+print
+Sorting List
+sort
+show
+size
+wait
+print
+Shuffling List
+shuffle
+show
+size
+
+add
+Brent
+Song
+16
